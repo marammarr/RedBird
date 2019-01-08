@@ -1,0 +1,41 @@
+{
+  "name": "frontend3daya",
+  "version": "1.0.0",
+  "description": "Ini Latihan Frontend",
+  "main": "yes",
+  "scripts": {
+    "test": "yes",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "Ammar",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@material-ui/core": "^3.7.0",
+    "@material-ui/icons": "^3.0.1",
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "mui-datatables": "^2.0.0-beta-41",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
+    "react-sc": "^0.2.1",
+    "react-scripts": "^2.1.1",
+    "react-select": "^2.1.2",
+    "react-start": "^1.1.2",
+    "reactstrap": "^6.5.0",
+    "start": "^5.1.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

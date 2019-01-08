@@ -1,0 +1,16 @@
+{
+    "BASE_URL": "http://localhost:8080/sia/api",
+    "ENDPOINTS": {
+        "LOGIN": "/user/login",
+        "USER": "/user/",
+        "MAHASISWA": "/mahasiswa/",
+        "JURUSAN": {
+            "UTAMA": "/jurusan/"
+        },
+        "VIEW_NO_DELETE": "/user/nodeleted/",
+        "KOTA": "/kota/",
+        "PROVINSI": "/provinsi/",
+        "MENU": "/menu/",
+        "KRS": "/krs/"
+    }
+}
